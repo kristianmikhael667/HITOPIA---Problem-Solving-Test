@@ -1,4 +1,4 @@
-<p><b>README untuk Repository</b>
+<p><b>README untuk Soal Nomor 2 Balance Brancket</b>
 <hr/>
 <b>Masalah Kurung Seimbang<b>
 
